@@ -41,7 +41,7 @@ if __name__ == "__main__":
         logger.info("Whole page")
         logger.info(soup)
 
-        target_elements = soup.find_all(lambda tag: tag.name == 'span' and "08:40" == tag.get_text(strip=True))
+        target_elements = soup.find_all(lambda tag: tag.name == 'span' and "14:45" == tag.get_text(strip=True))
         logger.info("Target elements")
         logger.info(target_elements)
 
