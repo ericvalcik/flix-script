@@ -1,6 +1,9 @@
 # Flixbus script 😉
 
-**Watch the video tutorial:**
+This script checks the status of a Flixbus bus and if that bus has
+space, sends an email to me :P
+
+## The Tutorial
 
 [![Alt text](https://img.youtube.com/vi/PaGp7Vi5gfM/hqdefault.jpg)](https://youtu.be/PaGp7Vi5gfM)
 
