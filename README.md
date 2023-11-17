@@ -1,4 +1,4 @@
-# Schedule a Python script with GitHub Actions
+# Flixbus script 😉
 
 **Watch the video tutorial:**
 
