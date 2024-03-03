@@ -40,8 +40,7 @@ if __name__ == "__main__":
         logger.info("Whole page")
         logger.info(soup)
 
-        # target_elements = soup.find_all(lambda tag: tag.name == 'h5' and "Pátek 15.03.2024" == tag.get_text(strip=True))
-        target_elements = soup.find_all(lambda tag: tag.name == 'h5' and "Neděle 03.03.2024" == tag.get_text(strip=True))
+        target_elements = soup.find_all(lambda tag: tag.name == 'h5' and "Pátek 15.03.2024" == tag.get_text(strip=True))
         logger.info("Target elements")
         logger.info(target_elements)
 
