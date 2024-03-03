@@ -1,7 +1,7 @@
-# Flixbus script 😉
+# Github actions scraper + resend email bot 😉
 
-This script checks the status of a Flixbus bus and if that bus has
-space, sends an email to me :P
+All usage bot that will be periodically checking a website and will
+send an email if something changes (if you want him to :)).
 
 ## The Tutorial
 
